@@ -1,0 +1,22 @@
+documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+
+\title{my first project}
+\author{munishrai41983 }
+\date{September 2022}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+Hlo everyone, my name is munish rai toady i am here to learn a new concept of how to make a report in the overleaf of my artificial intelligence lab.
+\begin{figure}
+    \centering
+    \includegraphics[width=15cm]{download.jpg}
+    \caption{this is image of natural}
+    \label{fig1}
+\end{figure}
+
+\end{document}
